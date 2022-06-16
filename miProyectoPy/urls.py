@@ -18,5 +18,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('miFamilia/', include('miFamilia.urls')),
+
+    #aca saque la subruta "mifamilia" porque me molesta tener que acceder desde la url asi: http://127.0.0.1:8000/mifamilia
+    path('', include('miFamilia.urls')),
 ]
