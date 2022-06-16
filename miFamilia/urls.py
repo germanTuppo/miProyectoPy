@@ -4,4 +4,5 @@ from miFamilia import views
 
 urlpatterns = [
     path('', views.inicio),
+    path('integrantes/', views.integrantes),
 ]
