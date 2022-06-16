@@ -14,3 +14,6 @@ User: germantuppo
 Mail: germantuppo@gmail.com
 pass: 836712839
 
+cree las vistas y me copie los archivos que hizo el profe para ir probando. No me gusta la idea de copiarme una plantilla pero de momento vaaa!
+
+
