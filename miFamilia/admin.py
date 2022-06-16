@@ -1,3 +1,4 @@
 from django.contrib import admin
+from miFamilia.models import Integrantes
 
-# Register your models here.
+admin.site.register (Integrantes)

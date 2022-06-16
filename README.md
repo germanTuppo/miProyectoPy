@@ -9,3 +9,8 @@ Para meter las tablas: python manage.py sqlmigrate miFamilia 0001 esto crea la s
 
 Los elementos de la db los voy a crear a mano para el desafío, por lo menos algunos (despues ver poner mas con código)
 
+Panel de administracion: python manage.py createsuperuser
+User: germantuppo
+Mail: germantuppo@gmail.com
+pass: 836712839
+
